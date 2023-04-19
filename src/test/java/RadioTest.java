@@ -1,5 +1,5 @@
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 import ru.netology.services.Radio;
 
 public class RadioTest {
